@@ -1,0 +1,31 @@
+.bus1, .bus2, .bus3, .bus4, .nobus1, .nobus2, .nobus3, .nobus4, .nobus5{
+    height:100px;
+  width:100px;
+}
+.green{
+    height: 100;
+    width:100;
+    background-color: greenyellow
+}
+.red{
+    height: 100;
+    width:100;
+    background-color: red
+}
+.hidden{
+    display: none;
+    width: 0;
+    height:0
+        
+}
+td{
+    height: 100;
+    width;100
+}
+.bottom{
+    font-size:15
+}
+.reset{
+    font-size:12;
+        color:blue
+}
